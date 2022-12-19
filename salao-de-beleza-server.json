@@ -1,0 +1,86 @@
+{
+    "manicure": [
+    {
+        "id": 1,
+        "name": "Mão",
+        "price": 20,
+        "days": "Seg. a Sáb."
+    },
+    {
+        "id": 2,
+        "name": "Pé",
+        "price": 20,
+        "days": "Seg. a Sáb."
+    },
+    {
+        "id": 3,
+        "name": "Mão e Pé",
+        "price": 35,
+        "days": "Seg. a Sáb."
+    },
+    {
+        "id": 4,
+        "name": "Spa dos Pés",
+        "price": 50,
+        "days": "Seg. a Sáb."
+    }
+],
+    
+    "Maquiagem": [
+    {
+        "id":1,
+        "nome": "Maquiagem Simples",
+        "price": 35,
+        "descrição": "Brush, Base, Sombra, Batom"
+    },
+    {
+        "id":2,
+        "nome": "Maquiagem Completa",
+        "price": 45,
+        "descrição": "Deliniado, Iluminador,Brush, Base, Sombra, Batom"
+    },
+    {
+        "id":3,
+        "nome": "Extensão Cílios",
+        "price": 25,
+        "descrição": "fio a fio, tufinho, comum"
+    },
+    {
+        "id":4,
+        "nome": "Desing de Sobrancelha",
+        "price": 20,
+        "descrição": "Pinça, linha, depilação, Lâmina"
+    },
+    {
+        "id":5,
+        "nome": "desing de Sobrancelha com Henna",
+        "price": 30,
+        "descrição": "Pinça, linha, depilação, Lâmina"
+}
+],
+
+    "Cabeleleira Leila": [
+    {
+        "id":1,
+        "nome": "Corte",
+        "price": 30,
+        "descrição": "Femenino e Masculino"
+    },
+    {
+        "id":2,
+        "nome": "Escova",
+        "price": 50,
+        "descrição": "Femenino e Masculino"    },
+    {
+        "id":3,
+        "nome": "Coloração",
+        "price": 60,
+        "descrição": "Femenino e Masculino"    },
+    {
+        "id":4,
+        "nome": "Cronograma Capilar",
+        "price": 70,
+        "descrição": "Femenino e Masculino"   
+    }
+    ]
+}
