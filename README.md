@@ -1,4 +1,4 @@
 # Atividade-individual-Json-server
 
 
-https://json-server-atividade.onrender.com/
+Browser- https://json-server-atividade.onrender.com/
