@@ -14,4 +14,4 @@ Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados
 - `Tema`: Salão de Beleza, escolhido para elaborar o projeto. 
 
 
-:globe_with_meridians: Browser- https://json-server-atividade.onrender.com/
+ #### :globe_with_meridians: Browser- https://json-server-atividade.onrender.com/
