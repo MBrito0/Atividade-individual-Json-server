@@ -1,7 +1,7 @@
 <h1 align="center"> Programadores Cariocas </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=32&pause=1000&color=FFBE0B&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Projeto+Invidual_Resilia;M%C3%B3dulo+3+%E2%80%93+Json-server" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=32&pause=1000&color=f28482&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Projeto+Invidual_Resilia;M%C3%B3dulo+3+%E2%80%93+Json-server" alt="Typing SVG" /></a>
 </p>
 
 ## Introdução :nail_care:
