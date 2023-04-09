@@ -5,9 +5,12 @@
 </p>
 
 ## Introdução :memo:
-- O termo “Json-server” é utilizado para descrever um servidor (pode também ser correlacionado a um garçom) que serve dados no formato Json. 
+_O termo “Json-server” é utilizado para descrever um servidor (pode também ser correlacionado a um garçom) que serve dados no formato Json._
 
 ## Proposta do Projeto :books:
-- Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o GET, POST, PUT, DELETE.
+Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o GET, POST, PUT, DELETE.
+- `Mecânica`: O projeto consiste em desenvolver um Json-server que contenha três rotas por exemplo (tarefas, projetos e notas), onde cada rota deve conter quatro ou mais dados já pré-preenchidos (mokados). 
+
+- `Tema`: Salão de Beleza, escolhido para elaborar o projeto.
 
 Browser- https://json-server-atividade.onrender.com/
